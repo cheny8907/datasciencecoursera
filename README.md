@@ -1,7 +1,7 @@
 ##How the script works 
-*Put datasets as well as the file,"run_analysis.R" ,into your working directory.
-*Open R ,and input "source("run_analysis.R")" at R console.
-*An tidy data named "tidy.txt" will be created in your working directory.
+* Put datasets as well as the file,"run_analysis.R" ,into your working directory.
+* Open R ,and input "source("run_analysis.R")" at R console.
+* An tidy data named "tidy.txt" will be created in your working directory.
 
 ## Code Book
 * column 1,"subject"
@@ -21,25 +21,25 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+tBodyAcc-XYZ  
+tGravityAcc-XYZ  
+tBodyAccJerk-XYZ  
+tBodyGyro-XYZ   
+tBodyGyroJerk-XYZ  
+tBodyAccMag  
+tGravityAccMag  
+tBodyAccJerkMag  
+tBodyGyroMag  
+tBodyGyroJerkMag  
+fBodyAcc-XYZ  
+fBodyAccJerk-XYZ  
+fBodyGyro-XYZ  
+fBodyAccMag  
+fBodyAccJerkMag  
+fBodyGyroMag   
+fBodyGyroJerkMag  
 
-The set of variables that were estimated from these signals are: 
-
-mean(): Mean value
-std(): Standard deviation
+The set of variables that were estimated from these signals are:   
+  
+mean(): Mean value 
+std(): Standard deviation  
