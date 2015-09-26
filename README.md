@@ -4,11 +4,11 @@
 * An tidy data named "tidy.txt" will be created in your working directory.
 
 ## Code Book
-* column 1,"subject"
+* column 1,"subject"  
 Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
-* column 2,"activity"
+* column 2,"activity"  
 Their activity name.
-* column 3 to 68,from "tBodyAcc-mean()-X" to "fBodyBodyGyroJerkMag-std()"
+* column 3 to 68,from "tBodyAcc-mean()-X" to "fBodyBodyGyroJerkMag-std()"  
 The average of the mean and standard deviation of each measurement,for each activity and each subject.See "Details" for more.
 
 ## Details     
